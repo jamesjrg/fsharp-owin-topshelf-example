@@ -1,0 +1,7 @@
+add config (eventstore endpoint etc)
+
+make event store stuff work
+
+write some controllers and service code, with tests
+
+log4net?
