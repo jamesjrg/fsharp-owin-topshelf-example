@@ -25,6 +25,8 @@ module Main =
         app.UseWebApi(config) |> ignore
 
     type WebAnalyticsService() =
+        let hostUrl = "http://localhost:9000/"
+
         [<DefaultValue>] val mutable private app : IDisposable
         
         interface ServiceControl with
