@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SimpleWebAnalytics", "SimpleWebAnalytics\SimpleWebAnalytics.fsproj", "{07B2F7A0-6229-4DB7-AA47-F5745B918FFB}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FsharpOwinTopshelfExample", "FsharpOwinTopshelfExample\FsharpOwinTopshelfExample.fsproj", "{07B2F7A0-6229-4DB7-AA47-F5745B918FFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

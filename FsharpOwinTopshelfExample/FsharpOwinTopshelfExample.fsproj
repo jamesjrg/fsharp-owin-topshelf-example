@@ -7,12 +7,12 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>07b2f7a0-6229-4db7-aa47-f5745b918ffb</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SimpleWebAnalytics</RootNamespace>
-    <AssemblyName>SimpleWebAnalytics</AssemblyName>
+    <RootNamespace>FsharpOwinTopshelfExample</RootNamespace>
+    <AssemblyName>FsharpOwinTopshelfExample</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFSharpCoreVersion>4.3.1.0</TargetFSharpCoreVersion>
-    <Name>SimpleWebAnalytics</Name>
+    <Name>FsharpOwinTopshelfExample</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -23,7 +23,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Debug\SimpleWebAnalytics.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\FsharpOwinTopshelfExample.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -34,7 +34,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Release\SimpleWebAnalytics.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\FsharpOwinTopshelfExample.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>

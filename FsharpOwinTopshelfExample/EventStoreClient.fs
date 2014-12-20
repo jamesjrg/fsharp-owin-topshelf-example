@@ -1,6 +1,6 @@
 ﻿open EventStore.ClientAPI
 
-module SimpleWebAnalytics.EventStoreClient
+module FsharpOwinTopshelfExample.EventStoreClient
 
 let writeEvent =
     1

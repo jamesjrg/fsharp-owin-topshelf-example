@@ -1,4 +1,4 @@
-﻿namespace SimpleWebAnalytics
+﻿namespace FsharpOwinTopshelfExample
 
 open Owin
 open Microsoft.Owin.Hosting
